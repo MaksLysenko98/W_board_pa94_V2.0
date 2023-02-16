@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\maksl\Документи\GitHub\W_board_pa94_V2.0\board_pa94 (2).PcbDoc
+RuleKind=Clearance|RuleName=Keep-Out|Scope=Board|Minimum=19.69
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=29.53
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
